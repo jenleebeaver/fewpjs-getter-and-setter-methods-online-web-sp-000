@@ -11,7 +11,7 @@ class Circle {
   this.radius = Math.PI;
 }
 
-Getter diameter(diameter){
+get diameter(diameter){
   this.diameter = diameter;
 }
 
