@@ -16,10 +16,10 @@ get diameter(diameter){
 }
 
 get circumference(circumference){
-  this.circumference = 2*diameter
+  this.circumference = 2*diameter;
 }
 
 get area(area){
-  this.area = Math.Pi * radius**2
+  this.area = Math.Pi * radius**2;
 }
 }
