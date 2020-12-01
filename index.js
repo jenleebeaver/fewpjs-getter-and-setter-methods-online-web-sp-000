@@ -12,7 +12,7 @@ class Circle {
 }
 
 get diameter(diameter){
-  this.diameter = diameter;
+  this.diameter = 2*radius;
 }
 
 get circumference(circumference){
