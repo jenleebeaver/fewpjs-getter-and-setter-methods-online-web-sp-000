@@ -16,7 +16,7 @@ get diameter(diameter){
 }
 
 get circumference(circumference){
-  this.circumference = circumference
+  this.circumference = 2*diameter
 }
 
 set area(area){
