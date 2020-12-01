@@ -19,7 +19,7 @@ get circumference(circumference){
   this.circumference = 2*diameter
 }
 
-set area(area){
+get area(area){
 
 }
 }
