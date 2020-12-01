@@ -20,6 +20,6 @@ get circumference(circumference){
 }
 
 get area(area){
-
+  this.area = Math.Pi * radius**2
 }
 }
