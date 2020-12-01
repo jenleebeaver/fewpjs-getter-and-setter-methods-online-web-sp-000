@@ -11,11 +11,11 @@ class Circle {
   this.radius = Math.PI;
 }
 
-get diameter(diameter){
+Getter diameter(diameter){
   this.diameter = diameter;
 }
 
-set circumference(circumference){
+get circumference(circumference){
   this.circumference = circumference
 }
 
